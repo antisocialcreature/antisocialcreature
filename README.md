@@ -49,7 +49,7 @@
 
 | Project | Overview | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **KlinikDesk** | Interactive clinic & OPD queue operations platform with department filtering, walk-in token management, ROI calculator, and dynamic pricing | `Next.js` `TypeScript` `Tailwind CSS` | [Live Demo](YOUR_VERCEL_URL) · [Source](https://github.com/antisocialcreature/KlinikDesk) |
+| **KlinikDesk** | Interactive clinic & OPD queue operations platform with department filtering, walk-in token management, ROI calculator, and dynamic pricing | `Next.js` `TypeScript` `Tailwind CSS` | [Live Demo](klinik-desk.vercel.app) · [Source](https://github.com/antisocialcreature/KlinikDesk) |
 
 ---
 
