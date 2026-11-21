@@ -57,6 +57,5 @@
 
 - **GitHub:** https://github.com/antisocialcreature
 - **KlinikDesk Repository:** https://github.com/antisocialcreature/KlinikDesk
-- **Live Demo:** YOUR_VERCEL_URL
 - **Email:** antisocialcreature33@gmail.com
 - 
